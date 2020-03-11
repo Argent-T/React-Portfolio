@@ -1,0 +1,12 @@
+#hero_picture {
+    background-image: url('../../assets/images/hubble.png');
+    background-attachment: fixed;
+    width: 100%;
+    margin: 0 auto;
+    background-position: center;
+    padding: 0;
+  }
+  .arrow{
+      color: white!important;
+      cursor: pointer;
+  }

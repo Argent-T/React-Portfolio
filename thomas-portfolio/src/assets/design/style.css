@@ -1,0 +1,60 @@
+#hero_picture {
+    background-image: url('../images/forrest.jpg');
+    background-attachment: fixed;
+    width: 100%;
+    margin: 0 auto;
+    background-position: center;
+    padding: 0;
+}
+#external-links {
+    text-decoration: none;
+}
+
+#tile {
+    margin: 0 auto;
+}
+
+h3 {
+    color: white!important;
+}
+
+#icon {
+    margin: 20px;
+}
+
+#portfolioSelector{
+    cursor: pointer;
+    padding: 20px 20px 20px 20px;
+}
+
+.banana{
+    background: #363636!important;
+    width: 100%;
+    margin: 0 auto;
+}
+
+.pride{
+    color: #363636
+}
+
+.sub{
+    color: #f5f5f5!important;
+}
+
+#displayURL{
+    text-decoration: none;
+}
+
+#displayURL2{
+    text-decoration: none;
+}
+.project{
+    min-width: 412px;
+    
+}
+
+.previewimage{
+    display:block;
+    margin: 0 auto;
+    margin-bottom: 5px;
+}
