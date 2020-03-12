@@ -33,7 +33,7 @@ function Navbar() {
                 <div className="container is-size-4">
                     <ul>
                         <li><Link to="/" >About Me</Link> </li>
-                        <li><a href="portfolio.html">Portfolio</a></li>
+                        <li><Link to="/portfolio" >Portfolio</Link> </li>
                     </ul>
 
                 </div>
