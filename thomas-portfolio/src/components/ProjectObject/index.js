@@ -19,10 +19,10 @@ const ProjectObject = {
         deployedURL: "https://argent-t.github.io/Drinky-Bird/",
         githubURL: "https://github.com/Argent-T/Drinky-Bird",
         images: {
-            one: "assets/images/drinkybird/drinkybird.png",
-            two: "assets/images/drinkybird/drinkybird2.png",
-            three: "assets/images/drinkybird/drinkybird3.png",
-            four: "assets/images/drinkybird/drinkybird4.png",
+            one: "assets/images/drinkybird/drinkybird.PNG",
+            two: "assets/images/drinkybird/drinkybird2.PNG",
+            three: "assets/images/drinkybird/drinkybird3.PNG",
+            four: "assets/images/drinkybird/drinkybird4.PNG",
         },
     },
     portfolio3: {
@@ -32,10 +32,10 @@ const ProjectObject = {
         deployedURL: "https://argent-t.github.io/Js-Quiz/",
         githubURL: "https://github.com/Argent-T/Js-Quiz",
         images: {
-            one: "assets/images/jsquiz/jsquiz.png",
-            two: "assets/images/jsquiz/jsquiz3.png",
-            three: "assets/images/jsquiz/jsquiz4.png",
-            four: "assets/images/jsquiz/jsquiz5.png",
+            one: "assets/images/jsquiz/jsquiz.PNG",
+            two: "assets/images/jsquiz/jsquiz3.PNG",
+            three: "assets/images/jsquiz/jsquiz4.PNG",
+            four: "assets/images/jsquiz/jsquiz5.PNG",
         },
     },
     portfolio4: {
@@ -45,10 +45,10 @@ const ProjectObject = {
         
         githubURL: "https://github.com/Argent-T/employee-tracker",
         images: {
-            one: "assets/images/react-task-manager/home.png",
-            two: "assets/images/react-task-manager/about.png",
-            three: "assets/images/react-task-manager/toggle_effect.png",
-            four: "assets/images/react-task-manager/delete_add.png",
+            one: "assets/images/react-task-manager/home.PNG",
+            two: "assets/images/react-task-manager/about.PNG",
+            three: "assets/images/react-task-manager/toggle_effect.PNG",
+            four: "assets/images/react-task-manager/delete_add.PNG",
         }
     },
     portfolio5: {

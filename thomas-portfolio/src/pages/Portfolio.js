@@ -46,18 +46,18 @@ function modalFunction(event){
         <div className="column">
             <article onClick={modalFunction} className="tile is-child box notification is-light project"
                 id="portfolioSelector" data-portfolio="portfolio2">
-                <img className="previewimage" id="Drinky-Bird" src="assets/images/drinkybird/drinkybird.png"
+                <img className="previewimage" id="Drinky-Bird" src="assets/images/drinkybird/drinkybird.PNG"
                      alt="Drinky-Bird"/>
-                <img className="previewimage" id="Drinky-Bird" src="assets/images/drinkybird/drinkybird2.png"
+                <img className="previewimage" id="Drinky-Bird" src="assets/images/drinkybird/drinkybird2.PNG"
                      alt="Drinky-Bird"/>
             </article>
         </div>
         <div className="tile is-parent">
             <article onClick={modalFunction} className="tile is-child box notification is-light project"
                 id="portfolioSelector" data-portfolio="portfolio3">
-                <img className="previewimage" id="JS Quiz" src="assets/images/jsquiz/jsquiz.png"
+                <img className="previewimage" id="JS Quiz" src="assets/images/jsquiz/jsquiz.PNG"
                      alt="JS Quiz"/>
-                <img className="previewimage" id="JS Quiz" src="assets/images/jsquiz/jsquiz3.png"
+                <img className="previewimage" id="JS Quiz" src="assets/images/jsquiz/jsquiz3.PNG"
                      alt="JS Quiz2"/>
             </article>
         </div>
