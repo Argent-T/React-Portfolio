@@ -18,7 +18,7 @@ function Home() {
                     taking skills developed on the job to a new level, including but not limited
                     to JavaScript, databases, responsive web design, Node.js, and React.js.
                     Reputation for thinking quickly on my feet in hectic environments and delivering new tools and solutions to solve both long and short term problems. </p>
-                <p className="subtitle">I am passionate about ever adding more tools to my toolkit by taking classNamees and self teaching programming languages as they are needed. I applied these aspects and skills to create an application that sorts and serves training video content along with related materials and media for use in Amazon.com’s internal Learning Operations program. I am excited to work on a team to build responsive, data driven websites and PWAs. </p>
+                <p className="subtitle">I am passionate about ever adding more tools to my toolkit by taking classes and self teaching programming languages as they are needed. I applied these aspects and skills to create an application that sorts and serves training video content along with related materials and media for use in Amazon.com’s internal Learning Operations program. I am excited to work on a team to build responsive, data driven websites and PWAs. </p>
                 <br />
                 <p className="title">Contact Information</p>
                 <a href="mailto: tfargent@gmail.com" rel="noopener noreferrer" target="_blank">
