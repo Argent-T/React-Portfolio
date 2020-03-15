@@ -26,16 +26,16 @@ function modalFunction(event){
         
         <>
         <br/>
-        <div className="tile is-ancestor">
-        <div className="tile is-vertical is-11" id="tile">
-        <div className="tile is-parent">
-        <article className="tile is-child notification is-dark">
-        <p className="title banana" id="recent_work">My Recent Work</p>
-        <div className="hero-body">
-        <section>
         <div className="columns">
+        <div className=" is-vertical is-11" id="">
         <div className="column">
-        <article onClick={modalFunction} className="tile is-child box notification is-light project"
+        <article className=" notification is-dark">
+        <p className="title banana" id="recent_work">My Recent Work</p>
+        {/* <div className="hero-body"> */}
+        <section>
+        <div className="columns is-multiline">
+        <div className="column is-one-third-desktop is-half-tablet">
+        <article onClick={modalFunction} className=" box notification is-light project"
             id="portfolioSelector" data-portfolio="portfolio1">
             <img className="previewimage" id="Nutrition Journal" src="assets/images/nutrition_journal/njournal.JPG"
              alt="Nutrition Journal"/>
@@ -43,8 +43,8 @@ function modalFunction(event){
              alt="Nutrition Journal2"/>
         </article>
         </div>
-        <div className="column">
-            <article onClick={modalFunction} className="tile is-child box notification is-light project"
+        <div className="column is-one-third-desktop is-half-tablet">
+            <article onClick={modalFunction} className=" box notification is-light project"
                 id="portfolioSelector" data-portfolio="portfolio2">
                 <img className="previewimage" id="Drinky-Bird" src="assets/images/drinkybird/drinkybird.PNG"
                      alt="Drinky-Bird"/>
@@ -52,8 +52,8 @@ function modalFunction(event){
                      alt="Drinky-Bird"/>
             </article>
         </div>
-        <div className="tile is-parent">
-            <article onClick={modalFunction} className="tile is-child box notification is-light project"
+        <div className="column is-one-third-desktop is-half-tablet">
+            <article onClick={modalFunction} className=" box notification is-light project"
                 id="portfolioSelector" data-portfolio="portfolio3">
                 <img className="previewimage" id="JS Quiz" src="assets/images/jsquiz/jsquiz.PNG"
                      alt="JS Quiz"/>
@@ -76,22 +76,22 @@ function modalFunction(event){
                                 </header>
                                 <section className="modal-card-body">
                                     <div className="content has-text-centered">
-                                        <div className="tile is-ancestor">
-                                            <div className="tile is-parent">
-                                                <article className="tile is-child box notification is-dark">
+                                        <div className=" is-ancestor">
+                                            <div className=" is-parent">
+                                                <article className=" box notification is-dark">
                                                     <a id="displayURL" target="_blank">Deployed URL</a>
                                                 </article>
                                             </div>
-                                            <div className="tile is-parent">
-                                                <article className="tile is-child box notification is-dark">
+                                            <div className=" is-parent">
+                                                <article className=" box notification is-dark">
                                                     <a id="displayURL2" target="_blank">GitHub Repo</a>
                                                 </article>
                                             </div>
                                         </div>
                                         
-                                        <div className="tile is-ancestor">
-                                            <div className="tile is-parent">
-                                                <article className="tile is-child box notification is-dark">
+                                        <div className=" is-ancestor">
+                                            <div className=" is-parent">
+                                                <article className=" box notification is-dark">
                                                     <h5 className="sub">Description</h5>
                                                     <p id="description"></p>
                                                     <br/>
@@ -114,7 +114,7 @@ function modalFunction(event){
                             </div>
                         </div>
 
-        </div>
+        {/* </div> */}
         </article>     
         </div>
         </div>
