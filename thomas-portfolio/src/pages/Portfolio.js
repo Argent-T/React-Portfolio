@@ -30,7 +30,7 @@ function modalFunction(event){
         <div className=" is-vertical is-11" id="">
         <div className="column">
         <article className=" notification is-dark">
-        <p className="title banana" id="recent_work">My Recent Work</p>
+        <p className="title banana" id="recent_work">Recent Work</p>
         {/* <div className="hero-body"> */}
         <section>
         <div className="columns is-multiline">
@@ -61,7 +61,7 @@ function modalFunction(event){
                      alt="JS Quiz2"/>
             </article>
         </div>
-
+        
         </div>
         </section>
 

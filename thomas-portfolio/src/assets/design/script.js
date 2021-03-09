@@ -45,7 +45,7 @@ const projectArray = {
         
         githubURL: "https://github.com/Argent-T/employee-tracker",
         images: {
-            one: "assets/images/react-task-manager/home.png",
+            one: "assets/images/employee tracker/employee-tracker.gif",
             two: "assets/images/react-task-manager/about.png",
             three: "assets/images/react-task-manager/toggle_effect.png",
             four: "assets/images/react-task-manager/delete_add.png",
